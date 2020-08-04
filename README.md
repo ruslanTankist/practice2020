@@ -24,4 +24,4 @@
 
 В выводе выписывается содержимое структуры `res` из `main()`. Поочередно выводятся `includes_list`, `struct_list` и `classes_list`. 
 
-
+![Вывод](https://i.imgur.com/g5cOBPW.png)
